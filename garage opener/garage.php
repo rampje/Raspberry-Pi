@@ -1,0 +1,1 @@
+<?phpsystem('sudo /usr/bin/python /var/www/garage.py');header('Location: garage.html');?>
